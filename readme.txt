@@ -20,16 +20,21 @@ a production server.
 
 == Installation ==
 
-1. Upload the directory `spammer-silent-treatment` and its contents to the 
-`/wp-content/plugins/` directory.
+1. Upload the directory `spammer-silent-treatment` and its contents to the `/wp-content/plugins/` directory.
 1. Activate the plugin through the 'Plugins' menu in WordPress.
 
 == Changelog ==
+
+= 0.2 =
+* Fix readme.txt Markdown.
 
 = 0.1 =
 * Initial release. 
 
 == Upgrade Notice ==
+
+= 0.2 =
+* readme.txt update.
 
 = 0.1 = 
 * Initial release.
